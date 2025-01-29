@@ -1,4 +1,4 @@
-package LinkedList;
+package Nodes;
 
 
  class Node{
@@ -8,6 +8,7 @@ package LinkedList;
 			this.data = data;
 		}
  }
+
 
 class Example1{
 	public static void main(String args[]){	
